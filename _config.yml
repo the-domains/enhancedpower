@@ -1,20 +1,4 @@
-name: enhancedpower
-favicon: null
-layout_spectrum: 0.49953
 typography_spectrum: 0.55045
-title: Enhanced Power Services Limited
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0069b4'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 0.75
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49953
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: enhancedpower
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    url: about
+    type: external
+favicon: null
+title: Enhanced Power Services Limited
 purpose: []
